@@ -1,0 +1,94 @@
+body {
+  font-family: "Montserrat";
+}
+.container-fluid {
+  /* padding: 15%;
+    padding-left: 15%; */
+  padding-right: 15%;
+}
+.div-1 {
+  width: 275px;
+  text-align: center;
+  display: inline-block;
+  height: 250px;
+  padding: auto 100px;
+  margin: 150px 50px;
+}
+.descri {
+  /* font-family: "Montserrat"; */
+  color: #fff;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  /* color: black; */
+}
+.ease {
+  font-weight: 800;
+}
+.h2{
+  font-family: "Montserrat-Bold";
+  font-size: 3rem;
+  font-weight: 900;
+}
+h3 {
+  font-family: "Montserrat";
+  font-size: 1.5rem;
+  font-weight: 900;
+}
+#hy {
+  background-color: #ff4c68;
+}
+#title {
+  background-color: #ff4c68;
+}
+
+/* navigation bar */
+#logo {
+  font-family: Ubuntu;
+  font-size: 50px;
+  font-weight: 600;
+}
+.nav-link {
+  padding: 20px auto;
+}
+/* download buttons */
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+/* title-image */
+.iphoneimg {
+  width: 70%;
+  transform: rotate(15deg);
+}
+/* features */
+.row-contener {
+  padding: 5% 12%;
+}
+.icon {
+  font-size: 50px;
+  color: #ef8172;
+}
+.icon:hover {
+  color: #ff4c68;
+}
+/* testimonials */
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+  padding: 5% 15%;
+}
+.dog-pic{
+  width: 10%;
+  border-radius: 100%;
+}
+#press{
+  background-color: #ef8172 ;
+  text-align: center;
+  padding-bottom:3% ;
+}
+.logos{
+  width: 20%;
+  padding-right: 5%;
+  /* padding-right: 5%; */
+}

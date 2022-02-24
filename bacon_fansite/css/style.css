@@ -1,0 +1,21 @@
+body{
+    background-color: pink;
+}
+h1{
+    color: royalblue;
+    font-size: 100px;
+}
+img{
+    background-color: red;
+}
+.bacon{
+    background-color: silver; }
+.bacon:hover {
+    background-color: gold; 
+}
+#hello_ji{
+    color: purple;
+}
+.circular{
+    border-radius: 100%; 
+}
